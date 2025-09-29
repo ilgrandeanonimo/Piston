@@ -1,0 +1,24 @@
+{
+  "originHash" : "74acade590f7bd56ad0347188225c34d9689ebf2af55fb56269d2f99d67c3c97",
+  "pins" : [
+    {
+      "identity" : "spectre-kit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/patriksvensson/spectre-kit.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "05b531447809b92969bd8688d7b842bbd796f469"
+      }
+    },
+    {
+      "identity" : "swift-argument-parser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-argument-parser.git",
+      "state" : {
+        "revision" : "309a47b2b1d9b5e991f36961c983ecec72275be3",
+        "version" : "1.6.1"
+      }
+    }
+  ],
+  "version" : 3
+}
